@@ -155,7 +155,7 @@ h4 {
 }
 
 .header {
-  background: url("/dist/img/bg.jpg") no-repeat center top/cover;
+  background: url("/Site-CV/dist/img/bg.jpg") no-repeat center top/cover;
   background-attachment: fixed;
   height: 93vh;
   color: #fff;
@@ -218,7 +218,7 @@ h4 {
   grid-template-columns: repeat(2, 1fr);
 }
 .projects .projects_img {
-  background: url("/dist/img/5370989.jpg") no-repeat center center/cover;
+  background: url("/Site-CV/dist/img/5370989.jpg") no-repeat center center/cover;
 }
 .projects .projects_content {
   display: grid;

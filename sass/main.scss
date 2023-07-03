@@ -4,7 +4,7 @@ $web_width: 1280px;
 $light-color: #F2D5BB;
 $dark-color: #291c58;
 $primary-color: #eb368b;
-$main-bg: url('/dist/img/bg.jpg');
+$main-bg: url('/Site-CV/dist/img/bg.jpg');
 
 
 * {
@@ -263,7 +263,7 @@ h4 {
     grid-template-columns: repeat(2, 1fr);
 
     .projects_img {
-        background: url('/dist/img/5370989.jpg') no-repeat center center/cover;
+        background: url('/Site-CV/dist/img/5370989.jpg') no-repeat center center/cover;
     }
 
     .projects_content {
